@@ -6,7 +6,7 @@ public class Flujo {
 		System.out.println("Inicio main");
 		try {
 			metodo1();
-		} catch (MiException e) {
+		} catch (Exception e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
